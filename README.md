@@ -19,7 +19,7 @@
     </div>
     <div id="alert" class="modal">
       <div class="modal-content black-text">
-        <h4>緊急地震速報</h4>
+        <h2>緊急地震速報</h2>
         <p>岩手県沖で震度7の地震が発生しました。</br>直ちに避難してください。</p>
       </div>
       <div class="modal-footer">
