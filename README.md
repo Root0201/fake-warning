@@ -14,13 +14,13 @@
     <div class="container">
       
       <h2><img style="width: 20%; margin-right: 20px; vertical-align: middle;" src="https://frame-illust.com/fi/wp-content/uploads/2015/02/6326e377c0b36f5eed473be4f3d7df13.png" alt="">緊急地震速報</h2>
-      <h4>岩手県沖で震度7の地震を確認しました。            津波や土砂崩れが発生する恐れがありま           すので直ちに避難してください。</h4>
-      <a href="https://www.amazon.co.jp/ミドリ安全-ヘルメット-クリアバイザー-通気孔付%20SC11PCLV/dp/B002SOPAOW/ref"class="btn btn-laege">了解</a>
+      <h4>岩手県沖で震度7の地震を確認しました。津波や土砂崩れが発生する恐れがありますので直ちに避難してください。</h4>
+      <a href="https://www.amazon.co.jp/LUCINA-JEWEL-防災ヘルメット-備えあれば患いなし！/dp/B076RMPSMX/ref=sr_1_17?__mk_ja_JP=カタカナ&dchild=1&keywords=安全ヘルメット&qid=1628051166&sr=8-17"class="btn btn-laege">了解</a>
     </div>
     <div id="alert" class="modal">
       <div class="modal-content black-text">
         <h2>緊急地震速報</h2>
-        <p>岩手県沖で震度7の地震が発生しました。             直ちに避難してください。</p>
+        <p>岩手県沖で震度7の地震が発生しました。直ちに避難してください。</p>
       </div>
       <div class="modal-footer">
         <button id="close" class="btn btn-laege">OK</button>d
